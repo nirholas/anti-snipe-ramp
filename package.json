@@ -1,0 +1,29 @@
+{
+  "name": "anti-snipe-ramp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Opens a pool at a punitive fee that decays to normal over a fixed window, and pays every cent of the difference to liquidity providers rather than to the deployer.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirholas/anti-snipe-ramp.git"
+  },
+  "homepage": "https://anti-snipe-ramp.pages.dev",
+  "keywords": [
+    "uniswap",
+    "uniswap-v4",
+    "uniswap-hooks",
+    "defi",
+    "amm",
+    "solidity",
+    "launch",
+    "anti-snipe",
+    "dynamic-fee",
+    "no-admin"
+  ],
+  "scripts": {
+    "build": "node web/build.mjs",
+    "contracts:build": "forge build",
+    "contracts:test": "forge test"
+  }
+}

@@ -7,7 +7,7 @@ A production Uniswap v4 hook. It prices every swap by overriding the pool's LP f
 - **Site:** https://anti-snipe-ramp.pages.dev
 - **Catalogue:** https://hookforge.pages.dev
 - **Contract:** [`src/hooks/AntiSnipeRampHook.sol`](src/hooks/AntiSnipeRampHook.sol)
-- **Licence:** MIT
+- **Licence:** Apache-2.0
 
 ## How it works
 

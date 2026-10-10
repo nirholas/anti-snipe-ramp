@@ -1,9 +1,8 @@
+# anti-snipe-ramp
+
+> Opens a pool at a punitive fee that decays to normal over a fixed window, and pays every cent of the difference to liquidity providers rather than to the deployer.
+
 # AntiSnipeRamp
-
-<!-- three.ws:badges -->
-[![GitHub stars](https://img.shields.io/github/stars/nirholas/anti-snipe-ramp?style=flat&logo=github)](https://github.com/nirholas/anti-snipe-ramp/stargazers) [![License](https://img.shields.io/github/license/nirholas/anti-snipe-ramp?style=flat)](https://github.com/nirholas/anti-snipe-ramp/blob/HEAD/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/nirholas/anti-snipe-ramp?style=flat)](https://github.com/nirholas/anti-snipe-ramp/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/anti-snipe-ramp/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/anti-snipe-ramp/blob/HEAD/AGENTS.md)
-<!-- /three.ws:badges -->
-
 
 **Opens a pool at a punitive fee that decays to normal over a fixed window, and pays every cent of the difference to liquidity providers rather than to the deployer.**
 
@@ -128,26 +127,3 @@ Not affiliated with Uniswap Labs.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/anti-snipe-ramp&type=Date)](https://www.star-history.com/#nirholas/anti-snipe-ramp&Date)
-
-<!-- three.ws:growth -->
-## Support the project
-
-If anti-snipe-ramp saves you time, **[star it on GitHub](https://github.com/nirholas/anti-snipe-ramp)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
-
-Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=anti-snipe-ramp%3A%20Opens%20a%20pool%20at%20a%20punitive%20fee%20that%20decays%20to%20normal%20over%20a%20fixed%20window%2C%20and%20pays%20every%20cent%20of&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fanti-snipe-ramp) · [Share on Bluesky](https://bsky.app/intent/compose?text=anti-snipe-ramp%3A%20Opens%20a%20pool%20at%20a%20punitive%20fee%20that%20decays%20to%20normal%20over%20a%20fixed%20window%2C%20and%20pays%20every%20cent%20of%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fanti-snipe-ramp) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fanti-snipe-ramp) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fanti-snipe-ramp&t=anti-snipe-ramp%3A%20Opens%20a%20pool%20at%20a%20punitive%20fee%20that%20decays%20to%20normal%20over%20a%20fixed%20window%2C%20and%20pays%20every%20cent%20of) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fanti-snipe-ramp&title=anti-snipe-ramp%3A%20Opens%20a%20pool%20at%20a%20punitive%20fee%20that%20decays%20to%20normal%20over%20a%20fixed%20window%2C%20and%20pays%20every%20cent%20of)
-
-## Built for AI agents too
-
-Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/anti-snipe-ramp` and it has the context it needs.
-
-## More from the same author
-
-- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
-- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
-- Questions or ideas: [open an issue](https://github.com/nirholas/anti-snipe-ramp/issues) or [start a discussion](https://github.com/nirholas/anti-snipe-ramp/discussions)
-
-## Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=nirholas/anti-snipe-ramp)](https://github.com/nirholas/anti-snipe-ramp/graphs/contributors)
-
-<!-- /three.ws:growth -->

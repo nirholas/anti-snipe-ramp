@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "anti-snipe-ramp"
+abstract: "Opens a pool at a punitive fee that decays to normal over a fixed window, and pays every cent of the difference to liquidity providers rather than to the deployer."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/anti-snipe-ramp"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
